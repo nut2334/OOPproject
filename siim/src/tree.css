@@ -1,0 +1,43 @@
+.title{
+    font-weight: 700;
+}
+.tree{
+    overflow: scroll;
+    height: 890px;
+    width: 450px;
+    overflow-x: hidden;
+}
+
+img{
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 135px;
+}
+#box2{
+    margin-left: 20px;
+}
+#box3{
+    display: grid;
+    grid-template-columns: 0.2fr 0.2fr 0.2fr 0.2fr 0.2fr;
+    margin-top: 20px;
+}
+.value{
+    width: 120px;
+}
+#number{
+    color: rgb(58, 150, 255);
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#example{
+    color: black;
+}
+#text{
+    font-size: 1px;
+}
+.box{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+}

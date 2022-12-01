@@ -1,0 +1,17 @@
+.t{
+    height: 780px;
+    width: 1200px;
+    overflow: scroll;
+}
+.sum{
+    color: rgb(0, 183, 255);
+    margin: 0px;
+    padding: 0px;
+}
+.l{
+    text-align: right;
+    margin-right: 200px;
+}
+.u{
+    width: 200px;
+}
